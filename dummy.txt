@@ -1,4 +1,10 @@
-this is dummy text file
-hello world
-this is myeonghyeon
-dsfsdf
+# dummy.txt
+스파르타 코딩 클럽 git 강의 최고!
+라인 1
+라인 2
+라인 3
+라인 4
+라인 5
+라인 6
+
+dummy text1
