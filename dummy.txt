@@ -7,6 +7,4 @@
 라인 5
 라인 6
 
-reset을 위한 dummy text1
-reset을 위한 dummy text2
-reset을 위한 dummy text3
+dummy text1
