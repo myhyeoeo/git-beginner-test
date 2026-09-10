@@ -20,8 +20,9 @@ reset을 위한 dummy text3
 
 main 에 라인 M! 추가
 
-new-conflict A1
-new-conflict A2
+new-conflict A1 (commit1)
+new-conflict A2 (commit2)
+new-conflict B1 (commit3)
 
 
 main branch add M1
