@@ -26,3 +26,5 @@ new-conflict B1 (commit3)
 
 
 main branch add M1
+
+쪼꼼 바꿔봣어
